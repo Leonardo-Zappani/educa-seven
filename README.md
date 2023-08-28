@@ -20,11 +20,21 @@ O Educa Seven possui as seguintes funcionalidades:
 - Possui um design intuitivo e responsivo
 
 ## Como instalar
-# run the dev mode
+
+```
 $ yarn dev
+```
 
-# run the prod mode
-yarn start
+Para executar o projeto em modo de produção, utilize o seguinte comando:
 
-# build the app
-yarn build
+```
+$ yarn start
+```
+
+# Construindo o aplicativo
+
+Para construir o aplicativo, utilize o seguinte comando:
+
+```
+$ yarn build
+```
