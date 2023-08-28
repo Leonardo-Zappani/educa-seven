@@ -18,3 +18,13 @@ O Educa Seven possui as seguintes funcionalidades:
 - Permite o acompanhamento do desempenho dos usuários, mostrando estatísticas de acertos e erros.
 - Disponibiliza recursos de gamificação para aumentar o engajamento dos usuários, oferecendo recompensas e desafios.
 - Possui um design intuitivo e responsivo
+
+## Como instalar
+# run the dev mode
+$ yarn dev
+
+# run the prod mode
+yarn start
+
+# build the app
+yarn build
